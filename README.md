@@ -32,6 +32,10 @@ Subject is a short title similar to a news title short, simple and conclusive. N
 
 Body is an optional part of the commit as it is only needed when your commit messages requires a little more explanation and context. The body should explain `what` and `why`, not `how`.  
 
+## Footer
+
+Footer is optional and is used to reference issue tracker IDs.  
+
 ## Reference
 
 - Udacity git style guide [link](https://udacity.github.io/git-styleguide/)
