@@ -24,6 +24,14 @@ Please choose the most appropriate type for the commit message.
 - test: adding tests, refactoring test; no production code change
 - chore: updating build tasks, package manager configs, etc; no production code change
 
+## Subject
+
+Subject is a short title similar to a news title short, simple and conclusive. Note that imperative tone is preferred. Usually, not more than 50 characters.  
+
+## Body
+
+Body is an optional part of the commit as it is only needed when your commit messages requires a little more explanation and context. The body should explain `what` and `why`, not `how`.  
+
 ## Reference
 
 - Udacity git style guide [link](https://udacity.github.io/git-styleguide/)
