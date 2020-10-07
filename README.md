@@ -13,6 +13,17 @@ body
 footer
 ```
 
+## Type
+
+Please choose the most appropriate type for the commit message.
+- feat: a new feature
+- fix: a bug fix
+- docs: changes to documentation
+- style: formatting, missing semi semi colons. etc; no code change
+- refactor: refactoring production code
+- test: adding tests, refactoring test; no production code change
+- chore: updating build tasks, package manager configs, etc; no production code change
+
 ## Reference
 
 - Udacity git style guide [link](https://udacity.github.io/git-styleguide/)
