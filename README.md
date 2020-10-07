@@ -1,6 +1,17 @@
-# GIT Commit
+# Git Commit
 
 This repository demonstrates the commit message style guide which is suggested by Udacity.  
+
+## Content
+
+- [Message Structure](#Message-Structure)
+- [Type](#Type)
+- [Subject](#Subject)
+- [Body](#Body)
+- [Footer](#Footer)
+- [Example](#Example)
+- [Reference](#Reference)
+
 
 ## Message Structure
 
