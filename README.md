@@ -29,11 +29,12 @@ footer
 Please choose the most appropriate type for the commit message.
 - feat: a new feature
 - fix: a bug fix
-- docs: changes to documentation
-- style: formatting, missing semi semi colons. etc; no code change
-- refactor: refactoring production code
+- docs: changes to documentation, add comments
+- style: formatting, missing semi colons. etc; no code change
+- refactor: used to identify development changes related to modifying the codebase, which neither adds a feature nor fixes a bug - such as removing redundant code, simplifying the code, renaming variables, etc
 - test: adding tests, refactoring test; no production code change
-- chore: updating build tasks, package manager configs, etc; no production code change
+- chore: updating build tasks, update configs, tuning params, no production code change, updating deps, fix typo
+- wip: (work in progress), code change and update, debugging
 
 ## Subject
 
